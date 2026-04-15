@@ -6,23 +6,10 @@
 
 🤖 I have designed and developed multiple **Sumo and Mini Sumo robots**, achieving several podium finishes in competitions. Currently, I am working on next-generation designs utilizing **BLDC motors** and **PWM control**, aiming to compete at an international level.
 
-## 🔧 Technologies & Tools
-- **Languages:** C#, C, SQL
-- **Frameworks:** ASP.NET, .NET
-- **Embedded Systems:** STM32, Embedded C, PWM, BLDC motor control
-- **Databases:** SQL Server
-- **Tools:** Git, Visual Studio, STM32CubeIDE
-- **Technologies:** REST APIs, CNC machining, 3D printing
-
-## 📌 Featured Projects
-- 🤖 **Sumo & Mini Sumo Robots** – Autonomous STM32-based robots with sensor-driven navigation and advanced motor control.
-- 📈 **Stock Market Data Automation** – ASP.NET applications for automated financial data processing and reporting.
-- 🔗 **Trading API Integration** – Secure API enabling integration with external trading platforms.
-
 ## 🌱 Currently Learning
 - Advanced .NET development
 - Cloud technologies
-- International robotics competition design
+- Advance robotics & PCB design
 
 ## 🤝 Soft Skills
 - Analytical thinking and problem-solving
